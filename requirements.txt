@@ -1,5 +1,0 @@
-pytorch-lightning==1.9.4
-transformers==4.27.4
-accelerate==0.21.0
-tokenizers==0.13.3
-fastapi==0.111.0
